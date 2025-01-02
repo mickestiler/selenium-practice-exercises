@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a084231-730a-4495-8ed9-0738d1cd0d6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/poms/level1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/poms/level2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a084231-730a-4495-8ed9-0738d1cd0d6d" name="Changes" comment="added level" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,11 +76,31 @@
       <option name="presentableId" value="Default" />
       <updated>1735719657693</updated>
       <workItem from="1735719658723" duration="3988000" />
-      <workItem from="1735769399258" duration="4080000" />
+      <workItem from="1735769399258" duration="4385000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1735785469256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735785469256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added level">
+      <created>1735785603221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735785603221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added level" />
+    <option name="LAST_COMMIT_MESSAGE" value="added level" />
   </component>
 </project>
